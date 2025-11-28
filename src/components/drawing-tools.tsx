@@ -14,7 +14,7 @@ export function DrawingTools() {
   }
 
   return (
-    <div className="absolute bottom-36 right-8 flex flex-col gap-2 z-10">
+    <div className="absolute bottom-48 right-8 flex flex-col gap-2 z-10">
       <div className="flex flex-col bg-white rounded-lg shadow-md p-1 gap-1">
         <ToolButton
           icon={<Pentagon className="w-6 h-6" fill="currentColor" />}
